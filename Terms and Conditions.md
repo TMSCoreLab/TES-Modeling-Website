@@ -13,7 +13,4 @@ End user license agreement [v1.0 / April 1, 2020]
 
 4)	Citation: If using this toolbox in academic research, the following article is to be cited in the published articles and presentations:
 
-Makarov et al. Boundary Element Fast Multipole Method for Enhanced Modeling of Neurophysiological Recordings
-id: TBME-00179-2020.R1 Accepted.
-
 5)	Updates: The authors reserve the right to update the software and the license agreement without further notice. Updating to a new software version implicates that the end user is agreeing to the updated license agreement that will be included as a part of the distribution package.
